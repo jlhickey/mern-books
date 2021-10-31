@@ -2,7 +2,7 @@
 # MERN-book-search
 ![License](https://img.shields.io/badge/License-ISC-<blue>)
 
-![Screen Shot 2021-10-26 at 1 20 03 PM](https://github.com/jlhickey/MERN-book-search/blob/main/book2.png)
+![Screen Shot 2021-10-26 at 1 20 03 PM](https://github.com/jlhickey/mern-books/blob/main/book1.jpeg)
 
 ## User Story
 
