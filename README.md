@@ -1,6 +1,6 @@
 
 # mern-books
-![License](https://img.shields.io/badge/License-ISC-<blue>). ![name](https://img.shields.io/badge/jlhickey-<orange>)
+![License](https://img.shields.io/badge/License-ISC-<blue>). ![Made By](https://img.shields.io/badge/jlhickey-<orange>)
 
 ![Screen Shot 2021-10-26 at 1 20 03 PM](https://github.com/jlhickey/mern-books/blob/main/book1.jpeg)
 
